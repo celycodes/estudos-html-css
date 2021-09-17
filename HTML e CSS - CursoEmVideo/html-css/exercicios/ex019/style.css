@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+    background-color: hsl(103, 72%, 79%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: hsl(103, 86%, 20%);  
+}
+
+#main {
+    text-align: center;
+    color: honeydew;
+    background-color:  hsl(103, 86%, 20%);
+}
+
+h2 {
+    color: hsl(103, 58%, 26%);
+}
+
+.basic {
+    color: hsl(103, 79%, 29%);
+}
+
+.intermediary {
+    color: hsl(56, 84%, 42%);
+}
+
+.advanced {
+    color: hsl(2, 86%, 38%);
+}
+
+.emphasis {
+    background-color: hsla(56, 93%, 59%, 0.623);
+}
